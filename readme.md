@@ -1,4 +1,4 @@
-<h1 align="center">Seja bem vindo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /><br />
+<h1 align="center">Seja bem vindo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1><br />
   
 Me chamo Ricardo Maciel, sou um desenvolvedor que busco de aprender algo novo todo dia, atualmente graduando em TIC na UFSC.
 Atualmente trabalho como desenvolvedor de software junior na [@ThomsonReuters](https://www.dominiosistemas.com.br/). Você pode entrar em contato comigo em    qualquer uma das redes sociais abaixo:
