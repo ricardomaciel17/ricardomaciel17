@@ -1,8 +1,8 @@
 <h1 align="center">Seja bem vindo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1><br />
   
-Me chamo Ricardo Maciel, sou um desenvolvedor que busca aprender algo novo todo dia, atualmente graduando em TIC na UFSC.
-Trabalho como desenvolvedor de software na [@ThomsonReuters](https://www.dominiosistemas.com.br/).<br />
- Você pode entrar em contato comigo em    qualquer uma das redes sociais abaixo:
+Prazer! Meu nome é Ricardo Maciel e sou um desenvolvedor que busca aprender algo novo todos os dias.</h1><br />
+Atualmente graduando em TIC na UFSC e desenvolvedor de software na [@ThomsonReuters](https://www.dominiosistemas.com.br/).<br />
+Você pode entrar em contato comigo em    qualquer uma das redes sociais abaixo:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardopmaciel/)](https://www.linkedin.com/in/ricardopmaciel/)
 <br />
