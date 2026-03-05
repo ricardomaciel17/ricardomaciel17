@@ -5,7 +5,7 @@
 
 <p align="center">
   Prazer! Meu nome é Ricardo Maciel e sou um desenvolvedor que busca aprender algo novo todos os dias.<br />
-  Atualmente graduado em TIC na UFSC e desenvolvedor de software no <a href="https://www.bees.com/pt-br">Bees</a>.<br />
+  Atualmente graduado em TIC na UFSC e desenvolvedor de software na Trier Sistemas <a href="https://triersistemas.com.br/">Trier Sistemas</a>.<br />
   Você pode entrar em contato comigo em qualquer um dos meios abaixo:
 </p>
 
@@ -17,11 +17,4 @@
   <a href="mailto:ricardopimaciel@gmail.com">
     <img src="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/mail.png" width="20" alt="Email" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomaciel17&hide=html&layout=compact&theme=synthwave" width="485px" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ricardomaciel17&theme=synthwave" width="485px" />
 </p>
