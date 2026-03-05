@@ -6,7 +6,7 @@
 <p align="center">
   Prazer! Meu nome é Ricardo Maciel e sou um desenvolvedor que busca aprender algo novo todos os dias.<br />
   Atualmente graduado em TIC na UFSC e Desenvolvedor Back-end Senior na <a href="https://triersistemas.com.br/">Trier Sistemas</a>.<br />
-  Também já atuei nas seguintes empresas: <a href="https://www.bees.com/pt-br/">Bees</a>, <a href="https://www.blip.ai//">Blip</a>, <a href="https://www.dominiosistemas.com.br//">Thomson Reuters</a>
+  Também já atuei nas seguintes empresas: <a href="https://www.bees.com/pt-br/">Bees</a>, <a href="https://www.blip.ai//">Blip</a>, <a href="https://www.dominiosistemas.com.br//">Thomson Reuters</a><br />
   Você pode entrar em contato comigo em qualquer um dos meios abaixo:
 </p>
 
