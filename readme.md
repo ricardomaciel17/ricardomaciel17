@@ -21,5 +21,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomaciel17&hide=html&layout=compact&theme=synthwave" width="485px" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ricardomaciel17&theme=synthwave" width="485px" />
 </p>
